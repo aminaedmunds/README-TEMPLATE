@@ -1,6 +1,6 @@
 # README-TEMPLATE
 
-# :bulb: OBJECTS FOR THE WORKSHOP
+## :bulb: OBJECTS FOR THE WORKSHOP
 
 Welcome, budding coder! :seedling: This workshop is all about *object_name*! Here's a glimpse of what you'll be dabbling in:
 
@@ -8,7 +8,7 @@ Welcome, budding coder! :seedling: This workshop is all about *object_name*! Her
 - Object 2: Brief description here
 - Object 3: Brief description here
 
-# :dart: SUCCESS CRITERIA
+## :dart: SUCCESS CRITERIA
 
 Woohoo! :tada: You've aced this workshop if you can:
 
@@ -16,7 +16,7 @@ Woohoo! :tada: You've aced this workshop if you can:
 2. Criteria 2: Detail here
 3. Criteria 3: Detail here
 
-# :clipboard: BRIEF 
+## :clipboard: BRIEF 
 
 :rocket: Ready for lift-off? Let's set up:
 
@@ -30,7 +30,7 @@ And once you've conquered the tasks:
 2. Push 'em up with `git push origin your-branch-name`
 3. Make a pull request so we can marvel at your genius! :brain: :boom:
 
-# :books: PRE-LEARNING SECTION
+## :books: PRE-LEARNING SECTION
 
 Put on your learning cap! :mortar_board: Here are some resources to get you up to speed:
 
@@ -40,27 +40,43 @@ Put on your learning cap! :mortar_board: Here are some resources to get you up t
 
 Remember, it's a journey, not a race! Take your time, digest the info and ask questions if you're stuck.
 
-# :ticket: TICKETS 
+## :ticket: TICKETS 
 
 Time to dive into action! :swimmer:‍♂️ Here's what you'll be working on:
 
-1. **Ticket 1**: [Task Details](task_link), Refer: [Document 1](doc_link)
-2. **Ticket 2**: [Task Details](task_link), Refer: [Tutorial 1](tutorial_link)
-3. **Ticket 3**: [Task Details](task_link), Refer: [Video 1](video_link)
+### Ticket 1
+
+**Task**: [Task Details](task_link), **Refer**: [Document 1](doc_link)
+
+### Ticket 2
+
+**Task**: [Task Details](task_link), **Refer**: [Tutorial 1](tutorial_link)
+
+### Ticket 3
+
+**Task**: [Task Details](task_link), **Refer**: [Video 1](video_link)
 
 And remember, Google is your BFF! Don't be shy to use it! :woman_technologist:
 
-# :warning: COMMON ISSUES 
+## :warning: COMMON ISSUES 
 
 Uh-oh, run into a wall? :brick: Don't worry, we've all been there! Here are some common issues and their solutions:
 
-- **Issue 1**: Solution 1
-- **Issue 2**: Solution 2
-- **Issue 3**: Solution 3
+### Issue 1
+
+**Solution**: Solution 1
+
+### Issue 2
+
+**Solution**: Solution 2
+
+### Issue 3
+
+**Solution**: Solution 3
 
 Remember, it's okay to ask for help. That's how we learn and grow! :sunflower:
 
-# :compass: FURTHER LEARNING
+## :compass: FURTHER LEARNING
 
 Hungry for more? :fork_and_knife: Dive into these resources to expand your knowledge!
 
