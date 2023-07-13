@@ -15,8 +15,8 @@ This workshop is all about *object_name*! Here's a glimpse of what you'll be ach
 
 Put on your learning cap! :mortar_board: Here are some pre-learning resources to get you up to speed:
 
-1. **Topic 1**: [Document 1](doc_link), [Tutorial 1](tutorial_link), [Video 1](video_link)
-2. **Topic 2**: [Document 2](doc_link), [Tutorial 2](tutorial_link), [Video 2](video_link)
+1. **Topic 1**: [Document 1](doc_link), [Video 1](video_link)
+2. **Topic 2**: [Document 2](doc_link), [Video 2](video_link)
 
 Remember, it's a journey, not a race! Take your time, digest the info and ask questions if you're stuck.
 
